@@ -13,6 +13,12 @@ My name is Mounir Charef, and I am currently pursuing a Master's degree in Artif
 - currently working with [EdenAI](https://www.edenai.co/).
 - worked at <a href="https://itexc-agency.com/" target="blank">Itexc Agency</a> on [Vitolker](https://vitolker.com/en) translation platform (and more) .
 
+## My degrees 🎓
+
+- Master degree in Ai and Data science at the university of montpellier
+- Master degree in intelegent systems at the university of usthb
+- Bachlor degree in computer science at the university of usthb
+
 ## My Certifications 🎓
 
 - Certified MongoDB Developer Associate 🍃
