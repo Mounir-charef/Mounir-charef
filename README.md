@@ -9,8 +9,9 @@ My name is Mounir Charef, and I am currently pursuing a Master's degree in Artif
 - Database: MongoDB 🍃, Mysql 🐬, Oracle 
 - Data science and AI: NumPy 🧮, Pandas , Matplotlib 📊, TensorFlow 
 
-## My Latest Project 💻
-- Currently working at <a href="https://itexc-agency.com/" target="blank">Itexc Agency</a> on [Vitolker](https://vitolker.com/en) translation platform
+## My Experience 💻
+- currently working with [EdenAI](https://www.edenai.co/).
+- worked at <a href="https://itexc-agency.com/" target="blank">Itexc Agency</a> on [Vitolker](https://vitolker.com/en) translation platform (and more) .
 
 ## My Certifications 🎓
 
