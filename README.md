@@ -41,7 +41,7 @@ Contributed to the [Vitolker](https://vitolker.com/en) translation platform and 
 
 ## 🎓 Education
 
-- **Master's in AI and Data Science** - University of Montpellier
+- **Master's in AI and Data Science** - University of Montpellier ⏳ (in progress)
 - **Master's in Intelligent Systems** - University of USTHB
 - **Bachelor's in Computer Science** - University of USTHB
 
