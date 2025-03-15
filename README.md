@@ -66,11 +66,6 @@ Contributed to the [Vitolker](https://vitolker.com/en) translation platform and 
   <img src="https://github-readme-stats.vercel.app/api?username=Mounir-charef&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" width="45%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mounir-charef&theme=tokyonight-duo&hide_border=true&border_radius=10" width="45%">
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-charef&layout=compact&theme=github_dark&hide_border=true&border_radius=10" width="45%">
-</div>
-
 ---
 
 <div align="center">
