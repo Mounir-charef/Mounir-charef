@@ -64,7 +64,7 @@ Contributed to the [Vitolker](https://vitolker.com/en) translation platform and 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mounir-charef&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" width="45%">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mounir-charef&theme=dark)](https://git.io/streak-stats)
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mounir-charef&theme=tokyonight-duo&hide_border=true&border_radius=10" width="45%">
 </div>
 
 <div align="center">
