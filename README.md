@@ -30,6 +30,12 @@ AI enthusiast and web developer with a passion for building intelligent systems 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 
+## 📦 Open Source Projects
+
+### 🛠 elhala-query
+**[elhala-query](https://github.com/Mounir-charef/elhala-query)** is a small educational implementation of React Query designed to help beginners understand how React Query works under the hood. It simplifies concepts such as **caching, background fetching, and query invalidation**, making it a great learning tool for developers new to React Query.  
+🔗 **Check it out here:** [elhala-query GitHub Repo](https://github.com/Mounir-charef/elhala-query)
+
 ## 💼 Professional Experience
 
 ### [EdenAI](https://www.edenai.co/) | Current
