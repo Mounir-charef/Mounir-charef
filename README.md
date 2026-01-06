@@ -51,8 +51,8 @@ A lightweight, educational implementation inspired by **React Query**, focused o
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mounir-charef&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-charef&layout=compact&theme=github_dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mounir-charef&show_icons=true&theme=github_dark&include_all_commits=true)](https://github.com/Mounir-charef/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-charef&layout=compact&theme=github_dark)](https://github.com/Mounir-charef/github-readme-stats)
 
 
 ---
