@@ -51,10 +51,9 @@ A lightweight, educational implementation inspired by **React Query**, focused o
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mounir-charef&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Mounir-charef&theme=tokyonight&hide_border=true" height="165" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mounir-charef&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-charef&layout=compact&theme=github_dark)
+
 
 ---
 
