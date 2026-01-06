@@ -43,7 +43,7 @@ A lightweight, educational implementation inspired by **React Query**, focused o
 
 ## 🎓 Education
 
-* Master’s – AI & Data Science, University of Montpellier *(in progress)*
+* Master’s – AI & Data Science, University of Montpellier
 * Master’s – Intelligent Systems, USTHB
 * Bachelor’s – Computer Science, USTHB
 
@@ -52,8 +52,8 @@ A lightweight, educational implementation inspired by **React Query**, focused o
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mounir-charef&show_icons=true&theme=github_dark&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mounir-charef&theme=tokyonight-duo&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mounir-charef&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Mounir-charef&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 ---
