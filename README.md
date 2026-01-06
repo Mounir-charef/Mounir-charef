@@ -47,14 +47,4 @@ A lightweight, educational implementation inspired by **React Query**, focused o
 * Master’s – Intelligent Systems, USTHB
 * Bachelor’s – Computer Science, USTHB
 
----
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mounir-charef&show_icons=true&theme=github_dark&include_all_commits=true)](https://github.com/Mounir-charef/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounir-charef&layout=compact&theme=github_dark)](https://github.com/Mounir-charef/github-readme-stats)
-
-
----
-
-<i>Open to collaboration on impactful web and AI projects.</i>
