@@ -1,77 +1,61 @@
-# 👨‍💻 Mounir Charef | AI Engineer & Web Developer
+# 👨‍💻 Mounir Charef | Software Engineer (Web & AI)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounir-charef-3397b1229/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Chrf.Mounir)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chrf_mounir/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mounir-charef-3397b1229/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Mounir-charef)
+
+---
 
 ## 🚀 About Me
-AI enthusiast and web developer with a passion for building intelligent systems and modern web applications. Currently pursuing a Master's degree in Artificial Intelligence while actively contributing to cutting-edge projects in the field.
 
-## 🔧 Skills & Technologies
+Software Engineer based in **France (Lyon)** with experience in **web development and AI integration**. I build **scalable, production-ready applications**, care deeply about clean architecture, and enjoy open source and educational projects.
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+## 🔧 Tech Stack
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+**Languages**: Python, JavaScript, TypeScript
+**Web & Backend**: React, Next.js, Django, FastAPI, REST APIs
+**Databases**: PostgreSQL, MongoDB, MySQL, Oracle
+**AI / Data**: NumPy, Pandas, TensorFlow
+**Tooling**: Docker, Git, CI/CD
 
-### Data Science & AI
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+---
 
-## 📦 Open Source Projects
+## 📦 Open Source
 
 ### 🛠 elhala-query
-**[elhala-query](https://github.com/Mounir-charef/elhala-query)** is a small educational implementation of React Query designed to help beginners understand how React Query works under the hood. It simplifies concepts such as **caching, background fetching, and query invalidation**, making it a great learning tool for developers new to React Query.  
-🔗 **Check it out here:** [elhala-query GitHub Repo](https://github.com/Mounir-charef/elhala-query)
 
-## 💼 Professional Experience
+A lightweight, educational implementation inspired by **React Query**, focused on caching, background refetching, and query invalidation.
 
-### [EdenAI](https://www.edenai.co/) | Current
-Working on advanced AI integration and development.
+🔗 [https://github.com/Mounir-charef/elhala-query](https://github.com/Mounir-charef/elhala-query)
 
-### [Itexc Agency](https://itexc-agency.com/) | Previous
-Contributed to the [Vitolker](https://vitolker.com/en) translation platform and other projects.
+---
+
+## 💼 Experience
+
+* **Eden AI** — Software Engineer *(Current)*
+  AI-powered features, APIs, and scalable backend systems
+
+* **Itexc Agency** — Software Engineer *(Previous)*
+  Contributor to the Vitolker translation platform
+
+---
 
 ## 🎓 Education
 
-- **Master's in AI and Data Science** - University of Montpellier ⏳ (in progress)
-- **Master's in Intelligent Systems** - University of USTHB
-- **Bachelor's in Computer Science** - University of USTHB
+* Master’s – AI & Data Science, University of Montpellier *(in progress)*
+* Master’s – Intelligent Systems, USTHB
+* Bachelor’s – Computer Science, USTHB
 
-## 📜 Certifications
-
-- **MongoDB Developer Associate** 🍃
-- **DeepLearningAI Machine Learning Certification** 🤖
-- **Mathematics for Machine Learning and Data Science Specialization** ➗
-- **DeepLearningAI Deep Learning Certification** 🧠
-- **IBM Professional Backend Certification** ⏳ (in progress)
-
-## 🔍 Current Interests
-
-- Large Language Models and Generative AI
-- ML/AI Systems at Scale
-- Full-Stack Web Development
-- Open Source Contributions
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mounir-charef&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" width="45%">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mounir-charef&theme=tokyonight-duo&hide_border=true&border_radius=10" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mounir-charef&show_icons=true&theme=github_dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mounir-charef&theme=tokyonight-duo&hide_border=true" width="45%" />
 </div>
 
-<div align="center">
-  <i>Let's connect and build amazing things together!</i>
-</div>
+---
+
+<i>Open to collaboration on impactful web and AI projects.</i>
